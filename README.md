@@ -2,7 +2,7 @@
 
 FILE STRUCTURE
 
-└── my-app
+    └── my-app
     ├── README.md
     ├── app
         ├── api
