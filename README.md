@@ -3,7 +3,7 @@
 FILE STRUCTURE
 
 └── my-app
- ├── README.md
+    ├── README.md
     ├── app
         ├── api
         │   └── chat
